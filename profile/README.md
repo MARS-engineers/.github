@@ -25,8 +25,14 @@ More advanced version of R-pet
 | Filament thicknesses control    |       |      X     |
 
 ### Roadmap
-- [ ] R-pet project beta
+- [ ] Complete project web
+- [ ] R-pet beta
+- [ ] R-pet relase 1.0
+- [ ] R-pet 1.0 sale
 - [ ] R-pet-next beta
+- [ ] R-pet-next relase 1.0
+- [ ] R-pet-next 1.0 sale
+      
 <!--
 
 **Here are some ideas to get you started:**
