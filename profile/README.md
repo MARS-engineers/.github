@@ -9,7 +9,7 @@ Linktree https://linktr.ee/mars_engineers/
 
 ## Our projects:
 ### R-pet
-Easy to build reciclation line, of PET bottles
+An easy-to-assemble PET bottle recycling line
 
 ### R-pet-next
 More advanced version of R-pet
