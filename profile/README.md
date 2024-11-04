@@ -1,7 +1,20 @@
-## Hi there 👋
-# MARS-engineers
+# **MARS-engineers**
 
 [![Documentation Status](https://readthedocs.org/projects/mars-engineers-rpet/badge/?version=latest)](https://mars-engineers-rpet.readthedocs.io/en/latest/?badge=latest)
+
+
+## Our projects:
+### R-pet
+Easy to build reciclation line, of PET bottles
+
+### R-pet-next
+More advanced version of R-pet
+
+|Features|
+|--------|
+|Wifi, API, Web controll  |
+|Filament thicknesses controll|
+
 
 <!--
 
