@@ -1,7 +1,8 @@
 # **MARS-engineers**
 
-[![Documentation Status](https://readthedocs.org/projects/mars-engineers-rpet/badge/?version=latest)](https://mars-engineers-rpet.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/mars-engineers-rpet/badge/?version=latest)](https://mars-engineers-rpet.readthedocs.io/en/latest/?badge=latest) 
 
+Mars web https://mars-engineers.cz/
 
 ## Our projects:
 ### R-pet
@@ -10,12 +11,19 @@ Easy to build reciclation line, of PET bottles
 ### R-pet-next
 More advanced version of R-pet
 
-|Features|
-|--------|
-|Wifi, API, Web controll  |
-|Filament thicknesses controll|
+### Features:
+|                                 | R-pet | R-pet-next |
+|:--------------------------------|:-----:|:----------:|
+| Speed presets                   |   X   |      X     |
+| Temp presets                    |   X   |      X     |
+| Pet stripe runout sensor        |   X   |      X     |
+| Controll over serial port       |   X   |      X     |
+| Wifi, API, Web controll         |       |      X     |
+| Filament thicknesses controll   |       |      X     |
 
-
+### Roadmap
+- [ ] R-pet project beta
+- [ ] R-pet-next beta
 <!--
 
 **Here are some ideas to get you started:**
