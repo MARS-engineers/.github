@@ -3,7 +3,8 @@
 [![Documentation Status](https://readthedocs.org/projects/mars-engineers-rpet/badge/?version=latest)](https://mars-engineers-rpet.readthedocs.io/en/latest/?badge=latest) 
 
 Mars web https://mars-engineers.cz/
-Link tree https://linktr.ee/mars_engineers
+
+Linktree https://linktr.ee/mars_engineers/
 
 
 ## Our projects:
@@ -20,8 +21,8 @@ More advanced version of R-pet
 | Temp presets                    |   X   |      X     |
 | Pet stripe runout sensor        |   X   |      X     |
 | Controll over serial port       |   X   |      X     |
-| Wifi, API, Web controll         |       |      X     |
-| Filament thicknesses controll   |       |      X     |
+| Wifi, API, Web control          |       |      X     |
+| Filament thicknesses control    |       |      X     |
 
 ### Roadmap
 - [ ] R-pet project beta
