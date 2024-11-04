@@ -22,6 +22,7 @@ More advanced version of R-pet
 | Controll over serial port       |   X   |      X     |
 | Wifi, API, Web control          |       |      X     |
 | Filament thicknesses control    |       |      X     |
+| SD card logger && RTC           |       |      X     |
 
 ### Roadmap
 - [ ] Complete project web
