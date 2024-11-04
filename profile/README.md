@@ -13,8 +13,8 @@ Easy to build reciclation line, of PET bottles
 ### R-pet-next
 More advanced version of R-pet
 
-### Features:
-|                                 | R-pet | R-pet-next |
+
+|          Features               | R-pet | R-pet-next |
 |:--------------------------------|:-----:|:----------:|
 | Speed presets                   |   X   |      X     |
 | Temp presets                    |   X   |      X     |
