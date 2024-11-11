@@ -23,6 +23,7 @@ More advanced version of R-pet
 | Wifi, API, Web control          |       |      X     |
 | Filament thicknesses control    |       |      X     |
 | SD card logger & RTC            |       |      X     |
+| Firmware update from SDcard     |       |      X     |
 
 ### Roadmap
 - [ ] Complete project web
