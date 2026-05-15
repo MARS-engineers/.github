@@ -8,6 +8,10 @@ MARS, the Moravian Association of Robotics & Space, is a school team from the Ed
 
 ## Our projects:
 ### Mars Rover
+-Rover based on rp2040/rp2350 for education in IT. 
+-[Project page](https://mars-engineers.cz/projekt/robotrix)
+
+
 ### R-pet
 An easy-to-assemble PET bottle recycling line
       
